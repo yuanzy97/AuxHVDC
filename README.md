@@ -1,2 +1,2 @@
 # AuxHVDC
-The user-defined framework of HVDC auxiliary control in PSSE&PSLF
+The user-defined framework of HVDC auxiliary control in PSSE and PSLF
